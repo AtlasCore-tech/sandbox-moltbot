@@ -15,7 +15,8 @@ Supported OS: **macOS 12.6+** and **Windows 10/11**.
 
 ## Install AtlasCore
 - Download and execute AtlasCore.pkg or AtlasCore.exe.
-- Complete the registration according to the wizard. 
+- Complete the registration according to the wizard.
+  ![9c4efbce0572f6b46f22a07347fd1d34](https://github.com/user-attachments/assets/217bc3f0-f4e4-48c4-ae66-167a21b939a3)
 
 ## Usage (macOS)
 1. Log in to the AtlasCore client.
