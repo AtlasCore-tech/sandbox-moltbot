@@ -14,13 +14,12 @@ Supported OS: **macOS 12.6+** and **Windows 10/11**.
 - Reduced costs: No need to purchase an additional Mac Mini, reducing equipment investment.
 
 ## Install AtlasCore
-Note: Install Moltbot before you installing AtlasCore.
-- Download and execute AtlasCore.exe or AtlasCore.apk.
+- Download and execute AtlasCore.apk or AtlasCore.exe.
 - Complete the registration according to the wizard. 
 
 ## Usage
 1. Log in to the AtlasCore client.
-2. Drag the Moltbot's shortcut to the AtlasCore's desktop.
+2. Install Moltbot inside AtlasCore.
 3. Use Moltbot in AtlasCore.
 
 ## Contact
