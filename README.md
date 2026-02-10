@@ -1,7 +1,7 @@
 # AtlasCore - Run OpenClaw without breaking your PC
 
 ## Run OpenClaw inside Atlascore
-**AtlasCore** is a desktop sandbox which creates a secure barrier that isolates OpenClaw from the devices local environment, and prevents the overly permissive access Moltbox may request from leading to security vulnerabilities.
+**AtlasCore** is a desktop sandbox which creates a secure barrier that isolates OpenClaw from the devices local environment, and prevents the overly permissive access OpenClaw may request from leading to security vulnerabilities.
 
 When run without proper isolation, OpenClaw can obtain broad access and perform actions far outside its intended scope. AtlasCore’s sandbox approach enforces boundaries and least-privilege practices so OpenClaw can operate secure.
 
