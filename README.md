@@ -1,17 +1,19 @@
 # AtlasCore - Run OpenClaw without breaking your PC
 
-## Run OpenClaw inside Atlascore
-**AtlasCore** is a desktop sandbox which creates a secure barrier that isolates OpenClaw from the devices local environment, and prevents the overly permissive access OpenClaw may request from leading to security vulnerabilities.
+## A Desktop Sandbox for OpenClaw
+**AtlasCore** is a desktop sandbox which designed with seamless compatibility and robust isolation at its core, enables OpenClaw to operate with the same full functionality, responsiveness, and behavioral consistency as it does on a physical, unvirtualized operating system. 
 
-When run without proper isolation, OpenClaw can obtain broad access and perform actions far outside its intended scope. AtlasCore’s sandbox approach enforces boundaries and least-privilege practices so OpenClaw can operate secure.
+This sandbox acts as a high-fidelity digital replica of a real desktop environment—mirroring the underlying OS architecture, system libraries, command-line interfaces, and permission frameworks—ensuring that every OpenClaw capability, from skill execution and system command invocation to policy management, performs identically to its behavior on a native system.
 
 Supported OS: **macOS 12.6+** and **Windows 10/11**.
 
 ## Why this matters
-- Prevents accidental or malicious overreach: AtlasCore reduces the blast radius if OpenClaw requests or executes unintended actions.
-- Reduces leakage risk: OpenClaw only accesses and uses data within AtlasCore; local device data will not be damaged or leaked.
-- Full functionality usage: The virtual environment provided by AtlasCore is the same as the device's operating system, and all of OpenClaw's functions work normally within AtlasCore.
-- Reduced costs: No need to purchase an additional Mac Mini, reducing equipment investment.
+- Prevent accidental or malicious overreach: AtlasCore reduces the blast radius if OpenClaw requests or executes unintended actions.
+- Reduce leakage risk: OpenClaw only accesses and uses data within AtlasCore; local device data will not be damaged or leaked.
+- Eliminate friction between OpenClaw and the host OS: OpenClaw can interact with simulated system resources, execute scripts, and modify execution policies exactly as it would on a real desktop—all without exposing the host system to risks associated with untrusted commands, arbitrary executable runs, or policy modifications
+- Explore OpenClaw's full capabilities: It empowers developers, testers, and users to explore OpenClaw's full capabilities—including high-risk operations like policy customization and executable testing—without compromising the integrity of their native environment.
+- Peserve native essence while enhancing value: AtlasCore ensures that OpenClaw's power is never limited by security concerns, and that security is never achieved at the cost of functionality.
+- Reduce costs: No need to purchase an additional Mac mini, reducing equipment investment.
 
 ## Install AtlasCore
 - Download and execute AtlasCore.pkg or AtlasCore.exe.
