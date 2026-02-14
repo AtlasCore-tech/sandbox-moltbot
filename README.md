@@ -16,60 +16,17 @@ Supported OS: **macOS 12.6+** and **Windows 10/11**.
 - Reduce costs: No need to purchase an additional Mac mini, reducing equipment investment.
 
 ## Install AtlasCore
-- Download and execute AtlasCore.pkg or AtlasCore.exe.
-- Complete the registration according to the wizard.
-  ![9c4efbce0572f6b46f22a07347fd1d34](https://github.com/user-attachments/assets/217bc3f0-f4e4-48c4-ae66-167a21b939a3)
+Download and execute AtlasCore.pkg or AtlasCore.exe.
+URL:https://github.com/AtlasCore-tech/desktop-sandbox-openclaw/releases/tag/v1.0
 
-## Usage (macOS)
-1. Log in to the AtlasCore client.
-2. Add iTerm.app and chrome.app in AtlasCore desktop.
-  ![6af5de1a30c4e32c86cbff73c4f8d9c8](https://github.com/user-attachments/assets/5a53b727-3fa5-44a2-ab05-bf112e2cb191)
-3. Downlod OpenClaw sourcecode inside AtlasCore.
-   <img width="1014" height="701" alt="1" src="https://github.com/user-attachments/assets/63fe8b41-ae08-4739-9119-c16e98ce6212" />
-4. Prepare node ENV in AtlasCore.
-   <img width="857" height="616" alt="2" src="https://github.com/user-attachments/assets/3ae0cdf8-557d-4df5-b29e-fbe1096831ee" />
-5. Install depends using commands.
-   ```bash
-   pnpm install && pnpm run build   
-   pnpm run clawdbot onboard
-   ```
-   Configue the LLM following the wizard.
-6. Prepare the OpenClaw gateway running enviroment.
-   <img width="893" height="603" alt="9" src="https://github.com/user-attachments/assets/1139bff2-1d11-4394-bfcb-cdb8e393e1f1" />
-7. Start the gateway service.
-   <img width="1649" height="729" alt="10" src="https://github.com/user-attachments/assets/ee20dafe-a5bb-4435-9155-ce88e8ee269e" />
-8. Complete the deployment of OpenClaw.
-   <img width="1399" height="1051" alt="11" src="https://github.com/user-attachments/assets/811d9e64-af50-4b4f-823f-b8077143cd34" />
+##Complete registration and log in to AtlasCore
+<img width="415" height="296" alt="image" src="https://github.com/user-attachments/assets/3724953c-a544-49f7-ab71-541f33e639ca" />
 
-## Usage (Windows)
-1. Prepare node ENV before login.
-2. Log in to the AtlasCore client.
-3. Open the cmd inside AtlasCore.
-4. Install the OpenClaw.
-   ```bash
-   npm install -g openclaw@latest 
-   ``` 
-   <img width="1915" height="1038" alt="1" src="https://github.com/user-attachments/assets/b03f17bd-ff9b-45b6-abc9-2678c7ef152c" />
+##Open OpenClaw QStart to configure your preferred LLM
+<img width="416" height="353" alt="image" src="https://github.com/user-attachments/assets/da88f982-c3a9-4ad1-9855-8f9a92264eac" />
 
-5. Configure OpenClaw onboard.
-
-   ```bash
-   openclaw onboard 
-   ``` 
-   <img width="1914" height="1037" alt="da3cb7c18edd597e89a9c2813128995a" src="https://github.com/user-attachments/assets/e4e23d48-f584-4b39-b820-4169c4d17591" />
-6. Start OpenClaw gateway.
-
-   ```bash
-   openclaw gateway 
-   ```
-   <img width="1914" height="1037" alt="4" src="https://github.com/user-attachments/assets/24d6005b-b3cb-44c4-850c-2349a19cda71" />
-7. Start browser to access Webchat.
-
-   ```bash
-   openclaw dashboard 
-   ```
-   <img width="1918" height="1040" alt="5" src="https://github.com/user-attachments/assets/2a331bb4-514f-471c-9cc9-86caad5f8c6f" />
-
+##Open the Openclaw webchat to start using Openclaw
+<img width="415" height="249" alt="image" src="https://github.com/user-attachments/assets/c0ec9c2b-2f3b-4790-a4d0-a7069d2bd55f" />
 
 ## Contact
 For questions about Atlascore, open an issue or contact the maintainers.
