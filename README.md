@@ -20,12 +20,15 @@ Download and execute AtlasCore.pkg or AtlasCore.exe.
 URL:https://github.com/AtlasCore-tech/desktop-sandbox-openclaw/releases/tag/v1.0
 
 ##Complete registration and log in to AtlasCore
+
 <img width="415" height="296" alt="image" src="https://github.com/user-attachments/assets/3724953c-a544-49f7-ab71-541f33e639ca" />
 
 ##Open OpenClaw QStart to configure your preferred LLM
+
 <img width="416" height="353" alt="image" src="https://github.com/user-attachments/assets/da88f982-c3a9-4ad1-9855-8f9a92264eac" />
 
 ##Open the Openclaw webchat to start using Openclaw
+
 <img width="415" height="249" alt="image" src="https://github.com/user-attachments/assets/c0ec9c2b-2f3b-4790-a4d0-a7069d2bd55f" />
 
 ## Contact
